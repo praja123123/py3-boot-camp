@@ -1,0 +1,3 @@
+# add repo to remote repo github
+git remote add origin https://github.com/praja123123/test_repo.git
+git push -u origin master
