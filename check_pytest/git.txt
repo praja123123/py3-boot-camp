@@ -1,3 +1,7 @@
 # add repo to remote repo github
-git remote add origin https://github.com/praja123123/test_repo.git
+git remote add origin https://github.com/praja123123/py3-boot-camp.git
 git push -u origin master
+
+# check the status of your repo
+git status
+
