@@ -5,3 +5,6 @@ git push -u origin master
 # check the status of your repo
 git status
 
+# remove file from repo but keep it in the working directory
+git rm --cached <file>
+
