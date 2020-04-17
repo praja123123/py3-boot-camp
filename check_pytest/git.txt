@@ -8,3 +8,5 @@ git status
 # remove file from repo but keep it in the working directory
 git rm --cached <file>
 
+# create new branch and checkout to it
+ git checkout -b <my branch name>
